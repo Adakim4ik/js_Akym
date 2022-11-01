@@ -34,7 +34,7 @@ let lastName = 'Adamenko'
 let person = (firstName + ' ' + middleName+ ' ' + lastName)
 console.log(person)
 
-let a = 100
+let a = 10
 let b = '100'
 let c = 2>1
 console.log(typeof (a))
