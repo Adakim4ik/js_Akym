@@ -7,15 +7,15 @@
 // - Створити масив, наповнити його 10 елементами будь-якого типу, вивести кожен елемент в консоль
 let element = [1,'jff',true,false,23,'115','aaaa',3.14,2.7,999]
 console.log(element[0])
-console.log(element[1])
-console.log(element[2])
-console.log(element[3])
-console.log(element[4])
-console.log(element[5])
-console.log(element[6])
-console.log(element[7])
-console.log(element[8])
-console.log(element[9])
+// console.log(element[0])
+// console.log(element[0])
+// console.log(element[0])
+// console.log(element[0])
+// console.log(element[0])
+// console.log(element[0])
+// console.log(element[0])
+// console.log(element[0])
+// console.log(element[0])
 
 // - Створити 3 об'єкти які описують книги. Поля об'єкту : title ,pageCount, genre.
 let book1 = {
